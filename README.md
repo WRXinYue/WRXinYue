@@ -8,7 +8,7 @@
 <!-- github-stats:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=YunYouJun&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=WRXinYue&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- github-stats:end -->
@@ -58,4 +58,3 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" alt="unreal-engine" /></code>
 <code><img height="20" src="https://simpleicons.org/icons/adobeaftereffects.svg" alt="AE" /></code>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wrxinyue&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
