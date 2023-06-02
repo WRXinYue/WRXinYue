@@ -13,7 +13,11 @@
 
 小目标: 完成OceanBlog开源项目、高效博客写作、完成剪辑项目、少熬夜
 
+#### Social
 
+- WeChat：WRXinYue
+- QQ：3322543587
+- DisCord：@WRXinYue
 
 #### Languages
 
