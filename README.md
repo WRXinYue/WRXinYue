@@ -13,12 +13,6 @@
 
 小目标: 完成OceanBlog开源项目、高效博客写作、完成剪辑项目、少熬夜
 
-#### Social
-
-- WeChat：WRXinYue
-- QQ：3322543587
-- DisCord：@WRXinYue
-
 #### Languages
 
 <!-- github-stats:start -->
@@ -74,3 +68,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" alt="unreal-engine" /></code>
 <code><img height="20" src="https://simpleicons.org/icons/adobeaftereffects.svg" alt="AE" /></code>
 
+#### Social
+
+- WeChat：WRXinYue
+- QQ：3322543587
+- DisCord：@WRXinYue
