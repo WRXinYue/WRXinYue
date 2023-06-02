@@ -7,10 +7,6 @@
 
 如果你对我在GitHub上的项目或者其他方面有任何问题或者合作的机会，都可以随时联系我。我期待与你一起探索创新的技术和构建有意义的项目。
 
-- 兴趣：科技、编程、单片机
-- 喜欢：二次元、音乐、美学、古代学、宇宙学
-- 生活：喝咖啡、修仙
-
 小目标: 完成OceanBlog开源项目、高效博客写作、完成剪辑项目、少熬夜
 
 #### Languages
@@ -68,8 +64,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" alt="unreal-engine" /></code>
 <code><img height="20" src="https://simpleicons.org/icons/adobeaftereffects.svg" alt="AE" /></code>
 
-#### Social
+#### Social                                Other
 
-- WeChat：WRXinYue
-- QQ：3322543587
-- DisCord：@WRXinYue
+- WeChat：WRXinYue                         兴趣：科技、编程、单片机
+- QQ：3322543587                           生活：喝咖啡、修仙
+- DisCord：@WRXinYue                       喜欢：二次元、音乐、美学、古代学、宇宙学
