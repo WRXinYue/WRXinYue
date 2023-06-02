@@ -64,8 +64,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" alt="unreal-engine" /></code>
 <code><img height="20" src="https://simpleicons.org/icons/adobeaftereffects.svg" alt="AE" /></code>
 
-#### Social                                Other
+#### Social
 
-- WeChat：WRXinYue                         兴趣：科技、编程、单片机
-- QQ：3322543587                           生活：喝咖啡、修仙
-- DisCord：@WRXinYue                       喜欢：二次元、音乐、美学、古代学、宇宙学
+- WeChat：WRXinYue
+- QQ：3322543587
+- DisCord：@WRXinYue
