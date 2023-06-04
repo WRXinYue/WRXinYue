@@ -1,5 +1,16 @@
 ### I am WRXinYue, pleased to meet you! 🌟
+
+#### 简介
+
 我是一个热爱编程和技术的人，对开源软件和技术社区充满热情。我是Ocean开源团队的一员。在公司我担当Java全栈工程师的职责。
+
+我的兴趣广泛，包括软件开发、数据科学、机器学习和人工智能。我热衷于学习新的技术，并将其应用于实际项目中。我喜欢与其他开发者和技术爱好者分享知识和经验，以促进共同成长。
+
+我在闲余时间会用Unity或者UE来制作一些游戏，目前正在学习LLMOps领域技术，希望我能有时间去重构我那些项目。
+
+如果你对我在GitHub上的项目或者其他方面有任何问题或者合作的机会，都可以随时联系我。我期待与你一起探索创新的技术和构建有意义的项目。
+
+小目标: 完成OceanBlog开源项目、高效博客写作、完成剪辑项目、少熬夜
 
 #### Languages
 
@@ -56,16 +67,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="unity" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" alt="unreal-engine" /></code>
 <code><img height="20" src="https://simpleicons.org/icons/adobeaftereffects.svg" alt="AE" /></code>
-
-#### 简介
-
-我的兴趣广泛，包括软件开发、数据科学、机器学习和人工智能。我热衷于学习新的技术，并将其应用于实际项目中。我喜欢与其他开发者和技术爱好者分享知识和经验，以促进共同成长。
-
-我在闲余时间会用Unity或者UE来制作一些游戏，目前正在学习LLMOps领域技术，希望我能有时间去重构我那些项目。
-
-如果你对我在GitHub上的项目或者其他方面有任何问题或者合作的机会，都可以随时联系我。我期待与你一起探索创新的技术和构建有意义的项目。
-
-小目标: 完成OceanBlog开源项目、高效博客写作、完成剪辑项目、少熬夜
 
 #### Social
 
