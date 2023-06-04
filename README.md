@@ -70,6 +70,6 @@
 
 #### Social
 
-- WeChat：WRXinYue
-- QQ：3322543587
-- DisCord：@WRXinYue
+- ![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white) WRXinYue
+- ![Tencent QQ](https://img.shields.io/badge/Tencent%23QQ-%2312B7F5?style=for-the-badge&logo=tencentqq&logoColor=white) 3322543587
+- ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) @WRXinYue
