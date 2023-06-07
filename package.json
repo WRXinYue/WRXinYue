@@ -4,16 +4,16 @@
     "packages"
   ],
   "author": {
-    "email": "me@yunyoujun.cn",
-    "name": "YunYouJun",
-    "url": "https://www.yunyoujun.cn"
+    "email": "me@wrxinyue.cn",
+    "name": "WRXinYue",
+    "url": "https://www.wrxinyue.cn"
   },
   "scripts": {
     "dream": "esno packages/dream/src/index.ts",
     "generate": "esno scripts/generate.ts",
     "prepare": "husky install"
   },
-  "homepage": "https://www.yunyoujun.cn/",
+  "homepage": "https://www.wrxinyue.cn/",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^17.0.21",
