@@ -49,6 +49,9 @@
 
 <!-- tools:end -->
 
+### 🏆 Github Profile Trophy
+<img src="https://github-profile-trophy.vercel.app/?username=wrxinyue&column=8"/>
+
 #### About me
 
 我的兴趣广泛，包括软件开发、数据科学、机器学习和人工智能。我热衷于学习新的技术，并将其应用于实际项目中。我喜欢与其他开发者和技术爱好者分享知识和经验，以促进共同成长。
