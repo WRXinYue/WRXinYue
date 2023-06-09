@@ -2,8 +2,6 @@
 
 我是一个热爱编程和技术的人，对开源软件和技术社区充满热情。我是Ocean开源团队的一员。在公司我担当Java全栈工程师的职责。
 
-![:wrxinyue](https://count.getloli.com/get/@:wrxinyue?theme=rule34)
-
 #### Languages
 
 <!-- github-stats:start -->
@@ -78,3 +76,6 @@
 - ![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white) WRXinYue
 - ![Tencent QQ](https://img.shields.io/badge/Tencent%23QQ-%2312B7F5?style=for-the-badge&logo=tencentqq&logoColor=white) 3322543587
 - ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) @WRXinYue
+
+
+![:wrxinyue](https://count.getloli.com/get/@:wrxinyue?theme=rule34)
