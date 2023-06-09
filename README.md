@@ -2,7 +2,7 @@
 
 我是一个热爱编程和技术的人，对开源软件和技术社区充满热情。我是Ocean开源团队的一员。在公司我担当Java全栈工程师的职责。
 
-![:wrxinyue](https://count.getloli.com/get/@:wrxinyue)
+![:wrxinyue](https://count.getloli.com/get/@:wrxinyue?theme=rule34)
 
 #### Languages
 
