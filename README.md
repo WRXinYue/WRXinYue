@@ -49,9 +49,6 @@
 
 <!-- tools:end -->
 
-### 🏆 Github Profile Trophy
-<img src="https://github-profile-trophy.vercel.app/?username=wrxinyue&column=8"/>
-
 #### About me
 
 我的兴趣广泛，包括软件开发、数据科学、机器学习和人工智能。我热衷于学习新的技术，并将其应用于实际项目中。我喜欢与其他开发者和技术爱好者分享知识和经验，以促进共同成长。
@@ -61,6 +58,9 @@
 如果你对我在GitHub上的项目或者其他方面有任何问题或者合作的机会，都可以随时联系我。我期待与你一起探索创新的技术和构建有意义的项目。
 
 小目标: 完成OceanBlog开源项目、高效博客写作、完成剪辑项目、少熬夜
+
+#### 🏆 Github Profile Trophy
+<img src="https://github-profile-trophy.vercel.app/?username=wrxinyue&column=8"/>
 
 #### Interested
 
