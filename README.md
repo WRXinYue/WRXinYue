@@ -1,4 +1,4 @@
-### I am WRXinYue, A man love programming and technology
+### I am WRXinYue, An open source enthusiast
 
 雪花飘飘北风萧萧，天地一片苍茫，一剪寒梅傲立雪中，只为伊人飘香，爱我所爱无怨无悔，此情长留心间
 
