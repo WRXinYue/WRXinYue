@@ -58,7 +58,7 @@
 
 如果你对我在GitHub上的项目或者其他方面有任何问题或者合作的机会，都可以随时联系我。我期待与你一起探索创新的技术和构建有意义的项目。
 
-小目标: 完成OceanBlog开源项目、高效博客写作、完成剪辑项目、少熬夜
+Small target: 完成OceanBlog开源项目、高效博客写作、完成剪辑项目、少熬夜
 
 #### 🏆 Github Profile Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=wrxinyue&column=8"/>
