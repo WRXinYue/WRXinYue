@@ -4,6 +4,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/bb4dfe5e-003b-4565-a688-255f621d70b9.svg)](https://wakatime.com/@bb4dfe5e-003b-4565-a688-255f621d70b9)
 
+<!-- waka-box start -->
+<!-- waka-box end -->
 
 #### Languages
 
