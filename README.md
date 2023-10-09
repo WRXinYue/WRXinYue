@@ -7,7 +7,11 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/1edeb7ac0064a8ac71fbf85871b5d14b" target="_blank">📊 Weekly development breakdown</a>
 ```text
-SQL 🕓 16m █████████████████████████████████████100.0%
+Vue.js     🕓 47m ███████████▊                   39.5%
+YAML       🕓 31m ███████▊                       26.0%
+SQL        🕓 16m ████▏                          14.1%
+JavaScript 🕓 8m  ██▏                             7.2%
+TypeScript 🕓 7m  █▊                              6.2%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
