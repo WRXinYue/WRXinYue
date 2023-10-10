@@ -4,8 +4,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/bb4dfe5e-003b-4565-a688-255f621d70b9.svg)](https://wakatime.com/@bb4dfe5e-003b-4565-a688-255f621d70b9)
 
-<!-- waka-box start -->
-#### <a href="https://gist.github.com/1edeb7ac0064a8ac71fbf85871b5d14b" target="_blank">📊 Weekly development breakdown</a>
+<!--START_SECTION:waka-->
+#### Weekly development breakdown
 ```text
 Vue.js     🕓 57m █████████████▏                 43.9%
 YAML       🕓 31m ███████▏                       24.1%
@@ -13,8 +13,8 @@ SQL        🕓 16m ███▉                           13.1%
 JavaScript 🕓 8m  █▉                              6.7%
 TypeScript 🕓 7m  █▋                              5.8%
 ```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
-<!-- waka-box end -->
+<!-- Powered by https://github.com/anmol098/waka-readme-stats . -->
+<!--END_SECTION:waka-->
 
 #### Languages
 
