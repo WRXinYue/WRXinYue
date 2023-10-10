@@ -1,14 +1,9 @@
 name: Waka Readme
 
 on:
-  push:
-    branches: [main]
-  pull_request:
-    branches: [main]
   schedule:
     # Runs at 12am CST
     - cron: '0 16 * * *'
-
 jobs:
   update-readme:
     name: Update Readme with Metrics
@@ -19,6 +14,8 @@ jobs:
         uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          COMMIT_USERNAME: "readme-bot"
+          COMMIT_MESSAGE: "Updated with Dev Metrics"
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROJECTS: "False"
           SHOW_LOC_CHART: "False" 
