@@ -26,14 +26,9 @@ CSS                        8 hrs 13 mins   ▒░░░░░░░░░░░�
 #### Languages
 
 <!-- Powered by https://github.com/ryo-ma/github-profile-trophy . -->
-<!-- github-stats:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
 <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=WRXinYue&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
-<!-- markdownlint-restore -->
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrxinyue&layout=compact&hide=html,css&langs_count=10&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
-<!-- prettier-ignore-end -->
-<!-- github-stats:end -->
+<!-- Powered by https://github.com/JacobLinCool/LeetCode-Stats-Card . -->
+<img align="right" width="450" src="https://leetcard.jacoblin.cool/WRXinYue?theme=light&font=Kameron&ext=activity"/>
 
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
@@ -86,8 +81,6 @@ Small target: 完成OceanBlog开源项目、高效博客写作、完成剪辑项
 
 <!-- Powered by https://github.com/haozibi/leetcode-badge . -->
 <img src="https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/wrxinyue.svg?type=past-year&color=blue"/>
-<!-- Powered by https://github.com/JacobLinCool/LeetCode-Stats-Card . -->
-<img src="https://leetcard.jacoblin.cool/WRXinYue?theme=dark&font=Kameron&ext=activity"/>
 
 #### Interested
 
