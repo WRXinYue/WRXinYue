@@ -3,22 +3,8 @@
 雪花飘飘北风萧萧，天地一片苍茫，一剪寒梅傲立雪中，只为伊人飘香，爱我所爱无怨无悔，此情长留心间
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-453%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-453%20hrs%2015%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 760 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 26 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -36,6 +22,18 @@ DataGrip                 16 mins             ███░░░░░░░░�
 💻 Operating System: 
 Linux                    2 hrs 9 mins        █████████████████████████   100.00 % 
 ```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+CSS                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+```
+
+
 
 
 <!--END_SECTION:waka-->
