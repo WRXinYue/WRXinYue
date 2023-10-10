@@ -40,46 +40,72 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-#### Languages
+<div align="center" style="witdh:100%"> 
+  <table>
+    <tr>
+      <td valign="center" width="100px"><b>Languages<b></td>
+      <td valign="center" width="100px"><b>Frameworks and Tools<b></td>
+      <td valign="center" width="100px"><b>Interested<b></td>
+    </tr>
+    <tr>
+      <td valign="center" align="center" width="300px">
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" /></code>
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" /></code>
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="csharp" /></code>
+        <code><img height="20" src="https://edent.github.io/SuperTinyIcons/images/svg/java.svg" alt="java" /></code>
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" /></code>
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" /></code>
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" /></code>
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yaml/yaml.png" alt="yaml" /></code>
+      </td>      
+      <td valign="center" align="center" width="300px">
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" /></code>
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" /></code>
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" alt="gulp" /></code>
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" /></code>
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code" /></code>
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="macos" /></code>
+        <code><img height="20" src="https://vitejs.dev/logo.svg" alt="vite" /></code>
+        <code><img height="20" src="https://api.iowen.cn/favicon/windicss.org.png" alt="WindiCSS" /></code>
+      </td>
+      <td valign="center" align="center" width="300px">
+        <code><img height="20" src="https://simpleicons.org/icons/blender.svg" alt="blender" /></code>
+        <code><img height="20" src="https://user-images.githubusercontent.com/1503156/50446380-ad88c980-094f-11e9-8eff-0094bde708d0.png" alt="cocos" /></code>
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="unity" /></code>
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" alt="unreal-engine" /></code>
+        <code><img height="20" src="https://simpleicons.org/icons/adobeaftereffects.svg" alt="AE" /></code>
+      </td>
+    </tr>
+  </table>
+  
+ <table>
+    <tr>
+      <td valign="center" width="100px"><b>Blockchain<b></td>
+      <td valign="center" width="100px"><b>Design<b></td>
+    </tr>
+    <tr>
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/Web3.js-blue" /> 
+        <img src="https://img.shields.io/badge/Solidity-blue" /> 
+        <img src="https://img.shields.io/badge/Ethers.js-blue" /> 
+        <img src="https://img.shields.io/badge/Solana-blue" /> 
+        <img src="https://img.shields.io/badge/Golang-blue" /> 
+        <img src="https://img.shields.io/badge/Rust-blue" /> 
+        <img src="https://img.shields.io/badge/Smart Contract-blue" /> 
+        <img src="https://img.shields.io/badge/Bitcoin-blue" />
+      </td>
+     <td valign="center" align="center" width="300px">
+       <img src="https://img.shields.io/badge/Photoshop-blue" /> 
+       <img src="https://img.shields.io/badge/Adobe XD-blue" /> 
+       <img src="https://img.shields.io/badge/Figma-blue" /> 
+       <img src="https://img.shields.io/badge/Blender-blue" /> 
+       <img src="https://img.shields.io/badge/WebGL-blue" /> 
+       <img src="https://img.shields.io/badge/Three.js-blue" /> 
+      </td>
+    </tr>
+  </table>
+</div>
 
-<!-- Powered by https://github.com/ryo-ma/github-profile-trophy -->
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=WRXinYue&show_icons=true&icon_color=ffa116&title_color=000000&include_all_commits=true"/>
-<!-- Powered by https://github.com/JacobLinCool/LeetCode-Stats-Card -->
-<img align="right" width="450" src="https://leetcard.jacoblin.cool/WRXinYue?theme=light&font=Kameron&ext=activity"/>
-
-<!-- languages:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="csharp" /></code>
-<code><img height="20" src="https://edent.github.io/SuperTinyIcons/images/svg/java.svg" alt="java" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yaml/yaml.png" alt="yaml" /></code>
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- languages:end -->
-
-#### Frameworks and Tools
-
-<!-- tools:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" alt="gulp" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="macos" /></code>
-<code><img height="20" src="https://vitejs.dev/logo.svg" alt="vite" /></code>
-<code><img height="20" src="https://api.iowen.cn/favicon/windicss.org.png" alt="WindiCSS" /></code>
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- tools:end -->
 
 #### About me
 
@@ -98,17 +124,6 @@ Small target: 完成OceanBlog开源项目、高效博客写作、完成剪辑项
 
 <!-- Powered by https://github.com/haozibi/leetcode-badge -->
 <img src="https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/wrxinyue.svg?type=past-year"/>
-
-#### Interested
-
-<!-- interested:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<code><img height="20" src="https://simpleicons.org/icons/blender.svg" alt="blender" /></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/1503156/50446380-ad88c980-094f-11e9-8eff-0094bde708d0.png" alt="cocos" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="unity" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" alt="unreal-engine" /></code>
-<code><img height="20" src="https://simpleicons.org/icons/adobeaftereffects.svg" alt="AE" /></code>
 
 #### 🌐 Social
 
