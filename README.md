@@ -1,8 +1,12 @@
-### I am WRXinYue, An open source enthusiast
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=306998&height=120&section=header"/>
 
-雪花飘飘北风萧萧，天地一片苍茫，一剪寒梅傲立雪中，只为伊人飘香，爱我所爱无怨无悔，此情长留心间
 
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=WRXinYue&show_icons=true&icon_color=ffa116&title_color=000000&include_all_commits=true" />
+<h1 align="center">I am WRXinYue, An open source enthusiast</h1>
+<h3 align="center">雪花飘飘北风萧萧，天地一片苍茫，一剪寒梅傲立雪中，只为伊人飘香，爱我所爱无怨无悔，此情长留心间</h3>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=WRXinYue&show_icons=true&icon_color=ffa116&title_color=000000&include_all_commits=true" />
+</div>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-453%20hrs%2058%20mins-blue)
@@ -140,3 +144,5 @@ Small target: 完成OceanBlog开源项目、高效博客写作、完成剪辑项
 - ![Tencent QQ](https://img.shields.io/badge/Tencent%23QQ-%2312B7F5?style=for-the-badge&logo=tencentqq&logoColor=white) 3322543587
 - ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) @WRXinYue
 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=306998&height=120&section=footer"/>
