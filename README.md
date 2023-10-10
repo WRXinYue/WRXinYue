@@ -1,4 +1,4 @@
-<h1 align="center">An open source enthusiast</h1>
+## An open source enthusiast
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-453%20hrs%2058%20mins-blue)
@@ -104,14 +104,14 @@ Shell                    1 repo              █░░░░░░░░░░�
   </table>
 </div>
 
-![](./assets/header_.png)
-
 <div align="center"> 
     <!-- Powered by https://github.com/JacobLinCool/LeetCode-Stats-Card -->
     <img height="370" src="https://leetcard.jacoblin.cool/WRXinYue?theme=light&font=Kameron&ext=activity" />
     <!-- Powered by https://github.com/ryo-ma/github-profile-trophy -->
     <img height="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrxinyue&layout=donut-vertical&hide=html,css&langs_count=10&show_icons=true&icon_color=ffa116&title_color=000000&include_all_commits=true" />
 </div>
+
+![](./assets/header_.png)
 
 #### About me
 
