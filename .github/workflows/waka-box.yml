@@ -11,32 +11,21 @@ on:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - name: Generate Waka Stats
+        uses: anmol098/waka-readme-stats@master
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          ### meta
-          API_BASE_URL: https://wakatime.com/api
-          REPOSITORY: WRXinYue/WRXinYue
-          ### content
-          SHOW_TITLE: true
-          SECTION_NAME: waka
-          BLOCKS: ░▒▓█
-          CODE_LANG: text
-          TIME_RANGE: all_time
-          LANG_COUNT: 10
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          SHOW_MASKED_TIME: false
-          STOP_AT_OTHER: true
-          ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
-          TARGET_BRANCH: master
-          TARGET_PATH: README.md
-          COMMITTER_NAME: GitHubActionBot
-          COMMITTER_EMAIL: action-bot@github.com
-          AUTHOR_NAME: YOUR_NAME
-          AUTHOR_EMAIL: YOUR@EMAIL.com
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_PROJECTS: "False"
+          SHOW_LOC_CHART: "False" 
+          SHOW_PROFILE_VIEWS: "False" 
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_COMMIT: "False"
+          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_TIMEZONE: "False"
+          SHOW_UPDATED_DATE: "False"
+          SHOW_LINES_OF_CODE: "True"
+          LOCALE: "en"

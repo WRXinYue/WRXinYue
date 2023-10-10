@@ -25,9 +25,9 @@ CSS                        8 hrs 13 mins   ▒░░░░░░░░░░░�
 
 #### Languages
 
-<!-- Powered by https://github.com/ryo-ma/github-profile-trophy . -->
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=WRXinYue&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
-<!-- Powered by https://github.com/JacobLinCool/LeetCode-Stats-Card . -->
+<!-- Powered by https://github.com/ryo-ma/github-profile-trophy -->
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=WRXinYue&show_icons=true&icon_color=ffa116&title_color=000000&include_all_commits=true"/>
+<!-- Powered by https://github.com/JacobLinCool/LeetCode-Stats-Card -->
 <img align="right" width="450" src="https://leetcard.jacoblin.cool/WRXinYue?theme=light&font=Kameron&ext=activity"/>
 
 <!-- languages:start -->
@@ -74,12 +74,12 @@ CSS                        8 hrs 13 mins   ▒░░░░░░░░░░░�
 
 Small target: 完成OceanBlog开源项目、高效博客写作、完成剪辑项目、少熬夜
 
-#### 🏆 Github Profile Trophy
+#### Github Profile Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=wrxinyue&row=1&column=8"/>
 
 #### Leetcode
 
-<!-- Powered by https://github.com/haozibi/leetcode-badge . -->
+<!-- Powered by https://github.com/haozibi/leetcode-badge -->
 <img src="https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/wrxinyue.svg?type=past-year&color=blue"/>
 
 #### Interested
