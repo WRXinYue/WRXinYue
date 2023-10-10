@@ -112,12 +112,12 @@ Shell                    1 repo              █░░░░░░░░░░�
     <!-- Powered by https://github.com/JacobLinCool/LeetCode-Stats-Card -->
     <img height="370" src="https://leetcard.jacoblin.cool/WRXinYue?theme=light&font=Kameron&ext=activity" />
     <!-- Powered by https://github.com/ryo-ma/github-profile-trophy -->
-    <img height="372" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrxinyue&layout=donut-vertical&hide=html,css&langs_count=10&show_icons=true&icon_color=ffa116&title_color=000000&include_all_commits=true"/>
+    <img height="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrxinyue&layout=donut-vertical&hide=html,css&langs_count=10&show_icons=true&icon_color=ffa116&title_color=000000&include_all_commits=true"/>
 </div>
 
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=WRXinYue&show_icons=true&icon_color=ffa116&title_color=000000&include_all_commits=true" />
-
 #### About me
+
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=WRXinYue&show_icons=true&icon_color=ffa116&title_color=000000&include_all_commits=true" />
 
 我的兴趣广泛，包括软件开发、数据科学、机器学习和人工智能。我热衷于学习新的技术，并将其应用于实际项目中。我喜欢与其他开发者和技术爱好者分享知识和经验，以促进共同成长。
 
