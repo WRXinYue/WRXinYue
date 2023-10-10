@@ -113,9 +113,8 @@ Shell                    1 repo              █░░░░░░░░░░�
 </div>
 
 <div align="center"> 
-  <a href="ailsonguedes.github.io" target = "_blank">
-    <img width="400" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrxinyue&layout=compact&hide=html,css&langs_count=10&show_icons=true&icon_color=ffa116&title_color=000000&include_all_commits=true"/>
-    <img width="400" height="195px" src="https://leetcard.jacoblin.cool/WRXinYue?theme=light&font=Kameron&ext=activity" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrxinyue&layout=compact&hide=html,css&langs_count=10&show_icons=true&icon_color=ffa116&title_color=000000&include_all_commits=true"/>
+    <img width="400" src="https://leetcard.jacoblin.cool/WRXinYue?theme=light&font=Kameron&ext=activity" />
 </div>
 
 #### About me
