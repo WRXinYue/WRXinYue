@@ -5,15 +5,41 @@
 [![wakatime](https://wakatime.com/badge/user/bb4dfe5e-003b-4565-a688-255f621d70b9.svg)](https://wakatime.com/@bb4dfe5e-003b-4565-a688-255f621d70b9)
 
 <!--START_SECTION:waka-->
-#### Weekly development breakdown
+![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%2032%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 752 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 27 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+📊 **This Week I Spent My Time On** 
+
 ```text
-Vue.js     🕓 57m █████████████▏                 43.9%
-YAML       🕓 31m ███████▏                       24.1%
-SQL        🕓 16m ███▉                           13.1%
-JavaScript 🕓 8m  █▉                              6.7%
-TypeScript 🕓 7m  █▋                              5.8%
+💬 Programming Languages: 
+Vue.js                   57 mins             ███████████░░░░░░░░░░░░░░   43.91 % 
+YAML                     31 mins             ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+SQL                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+JavaScript               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+TypeScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+
+🔥 Editors: 
+VS Code                  1 hr 52 mins        ██████████████████████░░░   86.93 % 
+DataGrip                 16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+
+💻 Operating System: 
+Linux                    2 hrs 9 mins        █████████████████████████   100.00 % 
 ```
-<!-- Powered by https://github.com/anmol098/waka-readme-stats . -->
+
+
 <!--END_SECTION:waka-->
 
 #### Languages
