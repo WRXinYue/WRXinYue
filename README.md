@@ -125,7 +125,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 Small target: 完成OceanBlog开源项目、高效博客写作、完成剪辑项目、少熬夜
 
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=WRXinYue&show_icons=true&icon_color=ffa116&title_color=000000&include_all_commits=true" />
+<img  width="100%" src="https://github-readme-stats.vercel.app/api?username=WRXinYue&show_icons=true&icon_color=ffa116&title_color=000000&include_all_commits=true" />
 
 #### 🏆 Github Profile Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=wrxinyue&row=1&column=8"/>
