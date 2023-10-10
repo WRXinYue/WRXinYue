@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 
-```rust
+```text
 From: 12 June 2023 - To: 09 October 2023
 
 Total Time: 443 hrs 49 mins
@@ -87,7 +87,7 @@ Small target: 完成OceanBlog开源项目、高效博客写作、完成剪辑项
 <!-- Powered by https://github.com/haozibi/leetcode-badge . -->
 <img src="https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/wrxinyue.svg?type=past-year&color=blue"/>
 <!-- Powered by https://github.com/JacobLinCool/LeetCode-Stats-Card . -->
-<img src="https://leetcard.jacoblin.cool/WRXinYue?theme=light&font=ABeeZee&ext=activity&site=cn"/>
+<img src="https://leetcard.jacoblin.cool/WRXinYue?theme=dark&font=Kameron&ext=activity"/>
 
 #### Interested
 
