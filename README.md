@@ -135,7 +135,7 @@ Small target: 完成OceanBlog开源项目、高效博客写作、完成剪辑项
 <!-- Powered by https://github.com/haozibi/leetcode-badge -->
 <img src="https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/wrxinyue.svg?type=past-year" />
 
-#### 🌐 Social
+#### Social
 
 <img align="right" src="https://count.getloli.com/get/@:wrxinyue?theme=rule34" />
 
