@@ -106,14 +106,12 @@ Shell                    1 repo              █░░░░░░░░░░�
   </table>
 </div>
 
-<div style="display: flex; ">
+<div>
     <!-- Powered by https://github.com/ryo-ma/github-profile-trophy -->
-    <div>
-        <img width="450" src="https://github-readme-stats.vercel.app/api?username=WRXinYue&show_icons=true&icon_color=ffa116&title_color=000000&include_all_commits=true" />
-        <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrxinyue&layout=compact&hide=html,css&langs_count=10&show_icons=true&icon_color=ffa116&title_color=000000&include_all_commits=true"/>
-    </div>
+    <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=WRXinYue&show_icons=true&icon_color=ffa116&title_color=000000&include_all_commits=true" />
+    <img align="left" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrxinyue&layout=compact&hide=html,css&langs_count=10&show_icons=true&icon_color=ffa116&title_color=000000&include_all_commits=true"/>
     <!-- Powered by https://github.com/JacobLinCool/LeetCode-Stats-Card -->
-    <img width="450" src="https://leetcard.jacoblin.cool/WRXinYue?theme=light&font=Kameron&ext=activity" />
+    <img align="right" width="450" src="https://leetcard.jacoblin.cool/WRXinYue?theme=light&font=Kameron&ext=activity" />
 </div>
 
 #### About me
