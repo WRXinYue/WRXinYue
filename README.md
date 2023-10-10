@@ -1,4 +1,4 @@
-### I am WRXinYue, An open source enthusiast
+### 👋 I am WRXinYue, An open source enthusiast
 
 雪花飘飘北风萧萧，天地一片苍茫，一剪寒梅傲立雪中，只为伊人飘香，爱我所爱无怨无悔，此情长留心间
 
@@ -40,7 +40,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-#### Languages
+#### 💬 Languages
 
 <!-- Powered by https://github.com/ryo-ma/github-profile-trophy -->
 <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=WRXinYue&show_icons=true&icon_color=ffa116&title_color=000000&include_all_commits=true"/>
@@ -63,7 +63,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 <!-- languages:end -->
 
-#### Frameworks and Tools
+#### 🛠️ Frameworks and Tools
 
 <!-- tools:start -->
 <!-- prettier-ignore-start -->
@@ -81,7 +81,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 <!-- tools:end -->
 
-#### About me
+#### 👤 About me
 
 我的兴趣广泛，包括软件开发、数据科学、机器学习和人工智能。我热衷于学习新的技术，并将其应用于实际项目中。我喜欢与其他开发者和技术爱好者分享知识和经验，以促进共同成长。
 
@@ -91,15 +91,15 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 Small target: 完成OceanBlog开源项目、高效博客写作、完成剪辑项目、少熬夜
 
-#### Github Profile Trophy
+#### 🏆 Github Profile Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=wrxinyue&row=1&column=8"/>
 
-#### Leetcode
+#### 💻 Leetcode
 
 <!-- Powered by https://github.com/haozibi/leetcode-badge -->
 <img src="https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/wrxinyue.svg?type=past-year&color=blue"/>
 
-#### Interested
+#### 💡 Interested
 
 <!-- interested:start -->
 <!-- prettier-ignore-start -->
@@ -110,7 +110,7 @@ Small target: 完成OceanBlog开源项目、高效博客写作、完成剪辑项
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" alt="unreal-engine" /></code>
 <code><img height="20" src="https://simpleicons.org/icons/adobeaftereffects.svg" alt="AE" /></code>
 
-#### Social
+#### 🌐 Social
 
 <img align="right" src="https://count.getloli.com/get/@:wrxinyue?theme=rule34"/>
 
