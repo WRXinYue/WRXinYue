@@ -112,8 +112,10 @@ Shell                    1 repo              █░░░░░░░░░░�
     <!-- Powered by https://github.com/JacobLinCool/LeetCode-Stats-Card -->
     <img height="370" src="https://leetcard.jacoblin.cool/WRXinYue?theme=light&font=Kameron&ext=activity" />
     <!-- Powered by https://github.com/ryo-ma/github-profile-trophy -->
-    <img height="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrxinyue&layout=donut-vertical&hide=html,css&langs_count=10&show_icons=true&icon_color=ffa116&title_color=000000&include_all_commits=true"/>
+    <img height="372" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrxinyue&layout=donut-vertical&hide=html,css&langs_count=10&show_icons=true&icon_color=ffa116&title_color=000000&include_all_commits=true"/>
 </div>
+
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=WRXinYue&show_icons=true&icon_color=ffa116&title_color=000000&include_all_commits=true" />
 
 #### About me
 
@@ -124,8 +126,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 如果你对我在GitHub上的项目或者其他方面有任何问题或者合作的机会，都可以随时联系我。我期待与你一起探索创新的技术和构建有意义的项目。
 
 Small target: 完成OceanBlog开源项目、高效博客写作、完成剪辑项目、少熬夜
-
-<img  width="100%" src="https://github-readme-stats.vercel.app/api?username=WRXinYue&show_icons=true&icon_color=ffa116&title_color=000000&include_all_commits=true" />
 
 #### 🏆 Github Profile Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=wrxinyue&row=1&column=8"/>
