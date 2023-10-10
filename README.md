@@ -7,11 +7,11 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/1edeb7ac0064a8ac71fbf85871b5d14b" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Vue.js     🕓 47m ███████████▊                   39.5%
-YAML       🕓 31m ███████▊                       26.0%
-SQL        🕓 16m ████▏                          14.1%
-JavaScript 🕓 8m  ██▏                             7.2%
-TypeScript 🕓 7m  █▊                              6.2%
+Vue.js     🕓 57m █████████████▏                 43.9%
+YAML       🕓 31m ███████▏                       24.1%
+SQL        🕓 16m ███▉                           13.1%
+JavaScript 🕓 8m  █▉                              6.7%
+TypeScript 🕓 7m  █▋                              5.8%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
