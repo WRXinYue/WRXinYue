@@ -1,5 +1,4 @@
 <!-- my-header-img -->
-![](./assets/header_.png)
 ![](https://capsule-render.vercel.app/api?type=waving&color=306998&height=120&section=header)
 
 <h1 align="center">An open source enthusiast</h1>
@@ -41,6 +40,8 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+![](./assets/header_.png)
 
 <div align="center" style="witdh:100%"> 
   <table>
@@ -144,4 +145,4 @@ Small target: 完成OceanBlog开源项目、高效博客写作、完成剪辑项
 - ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) @WRXinYue
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=306998&height=120&section=footer" />
+![](https://capsule-render.vercel.app/api?type=waving&color=306998&height=120&section=footer)
