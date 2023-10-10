@@ -1,10 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=306998&height=120&section=header" />
-
 <!-- my-header-img -->
 ![](./assets/header_.png)
+![](https://capsule-render.vercel.app/api?type=waving&color=306998&height=120&section=header)
 
-<h1 align="center">I am WRXinYue, An open source enthusiast</h1>
-<h3 align="center">雪花飘飘北风萧萧，天地一片苍茫，一剪寒梅傲立雪中，只为伊人飘香，爱我所爱无怨无悔，此情长留心间</h3>
+<h1 align="center">An open source enthusiast</h1>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-453%20hrs%2058%20mins-blue)
