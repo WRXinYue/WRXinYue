@@ -106,7 +106,7 @@ Shell                    1 repo              █░░░░░░░░░░�
   </table>
 </div>
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; ">
     <!-- Powered by https://github.com/ryo-ma/github-profile-trophy -->
     <div>
         <img width="450" src="https://github-readme-stats.vercel.app/api?username=WRXinYue&show_icons=true&icon_color=ffa116&title_color=000000&include_all_commits=true" />
