@@ -2,8 +2,6 @@
 
 雪花飘飘北风萧萧，天地一片苍茫，一剪寒梅傲立雪中，只为伊人飘香，爱我所爱无怨无悔，此情长留心间
 
-[![wakatime](https://wakatime.com/badge/user/bb4dfe5e-003b-4565-a688-255f621d70b9.svg)](https://wakatime.com/@bb4dfe5e-003b-4565-a688-255f621d70b9)
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%2032%20mins-blue)
 
