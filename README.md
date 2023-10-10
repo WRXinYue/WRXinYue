@@ -4,10 +4,6 @@
 <h1 align="center">I am WRXinYue, An open source enthusiast</h1>
 <h3 align="center">雪花飘飘北风萧萧，天地一片苍茫，一剪寒梅傲立雪中，只为伊人飘香，爱我所爱无怨无悔，此情长留心间</h3>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=WRXinYue&show_icons=true&icon_color=ffa116&title_color=000000&include_all_commits=true" />
-</div>
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-453%20hrs%2058%20mins-blue)
 
@@ -113,10 +109,10 @@ Shell                    1 repo              █░░░░░░░░░░�
 </div>
 
 <div align="center"> 
-    <!-- Powered by https://github.com/ryo-ma/github-profile-trophy -->
-    <img height="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrxinyue&layout=donut-vertical&hide=html,css&langs_count=10&show_icons=true&icon_color=ffa116&title_color=000000&include_all_commits=true"/>
     <!-- Powered by https://github.com/JacobLinCool/LeetCode-Stats-Card -->
-    <img height="340" src="https://leetcard.jacoblin.cool/WRXinYue?theme=light&font=Kameron&ext=activity" />
+    <img height="360" src="https://leetcard.jacoblin.cool/WRXinYue?theme=light&font=Kameron&ext=activity" />
+    <!-- Powered by https://github.com/ryo-ma/github-profile-trophy -->
+    <img height="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrxinyue&layout=donut-vertical&hide=html,css&langs_count=10&show_icons=true&icon_color=ffa116&title_color=000000&include_all_commits=true"/>
 </div>
 
 #### About me
@@ -128,6 +124,8 @@ Shell                    1 repo              █░░░░░░░░░░�
 如果你对我在GitHub上的项目或者其他方面有任何问题或者合作的机会，都可以随时联系我。我期待与你一起探索创新的技术和构建有意义的项目。
 
 Small target: 完成OceanBlog开源项目、高效博客写作、完成剪辑项目、少熬夜
+
+<img width="450" src="https://github-readme-stats.vercel.app/api?username=WRXinYue&show_icons=true&icon_color=ffa116&title_color=000000&include_all_commits=true" />
 
 #### 🏆 Github Profile Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=wrxinyue&row=1&column=8"/>
