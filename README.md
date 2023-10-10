@@ -93,8 +93,9 @@ Small target: 完成OceanBlog开源项目、高效博客写作、完成剪辑项
 
 #### Social
 
+<img align="right" src="https://count.getloli.com/get/@:wrxinyue?theme=rule34"/>
+
 - ![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white) WRXinYue
 - ![Tencent QQ](https://img.shields.io/badge/Tencent%23QQ-%2312B7F5?style=for-the-badge&logo=tencentqq&logoColor=white) 3322543587
 - ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) @WRXinYue
 
-<img align="right" src="https://count.getloli.com/get/@:wrxinyue?theme=rule34"/>
