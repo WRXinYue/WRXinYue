@@ -76,7 +76,7 @@ TypeScript 🕓 7m  █▋                              5.8%
 Small target: 完成OceanBlog开源项目、高效博客写作、完成剪辑项目、少熬夜
 
 #### 🏆 Github Profile Trophy
-<img src="https://github-profile-trophy.vercel.app/?username=wrxinyue&column=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=wrxinyue&column=7"/>
 
 #### Interested
 
