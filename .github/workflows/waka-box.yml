@@ -14,6 +14,7 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
+      # https://github.com/anmol098/waka-readme-stats
       - name: Generate Waka Stats
         uses: anmol098/waka-readme-stats@master
         with:

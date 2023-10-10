@@ -97,7 +97,7 @@ Small target: 完成OceanBlog开源项目、高效博客写作、完成剪辑项
 #### Leetcode
 
 <!-- Powered by https://github.com/haozibi/leetcode-badge -->
-<img src="https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/wrxinyue.svg?type=past-year&color=yellow"/>
+<img src="https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/wrxinyue.svg?type=past-year"/>
 
 #### Interested
 
