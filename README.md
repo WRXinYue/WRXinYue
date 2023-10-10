@@ -1,6 +1,3 @@
-<!-- my-header-img -->
-![](https://capsule-render.vercel.app/api?type=waving&color=306998&height=120&section=header)
-
 <h1 align="center">An open source enthusiast</h1>
 
 <!--START_SECTION:waka-->
@@ -40,8 +37,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-![](./assets/header_.png)
 
 <div align="center" style="witdh:100%"> 
   <table>
@@ -108,6 +103,8 @@ Shell                    1 repo              █░░░░░░░░░░�
     </tr>
   </table>
 </div>
+
+![](./assets/header_.png)
 
 <div align="center"> 
     <!-- Powered by https://github.com/JacobLinCool/LeetCode-Stats-Card -->
