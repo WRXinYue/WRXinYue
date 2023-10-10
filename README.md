@@ -3,7 +3,7 @@
 雪花飘飘北风萧萧，天地一片苍茫，一剪寒梅傲立雪中，只为伊人飘香，爱我所爱无怨无悔，此情长留心间
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-453%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-453%20hrs%2039%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
