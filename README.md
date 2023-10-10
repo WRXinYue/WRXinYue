@@ -15,7 +15,6 @@ TypeScript 🕓 7m  █▋                              5.8%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
-
 #### Languages
 
 <!-- Powered by https://github.com/ryo-ma/github-profile-trophy . -->
