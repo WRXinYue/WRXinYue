@@ -16,6 +16,10 @@ TypeScript 🕓 7m  █▋                              5.8%
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
 
+#### Leetcode
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
+<img src="https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/wrxinyue.svg?type=past-year"/>
+
 #### Languages
 
 <!-- github-stats:start -->
