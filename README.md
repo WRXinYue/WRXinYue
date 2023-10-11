@@ -1,3 +1,5 @@
+![](./assets/header_.png)
+
 ## An open source enthusiast
 
 <!--START_SECTION:waka-->
@@ -98,8 +100,6 @@ Linux                    2 hrs 9 mins        ███████████�
     <!-- Powered by https://github.com/ryo-ma/github-profile-trophy -->
     <img height="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrxinyue&layout=donut-vertical&hide=html,css&langs_count=10&show_icons=true&icon_color=ffa116&title_color=000000&include_all_commits=true" />
 </div>
-
-![](./assets/header_.png)
 
 #### About me
 
