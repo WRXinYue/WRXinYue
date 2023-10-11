@@ -1,6 +1,6 @@
 ![](./assets/header_.png)
 
-## An open source enthusiast
+<h1 align="center">An open source enthusiast</h1>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs-blue)
