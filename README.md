@@ -27,12 +27,12 @@ Linux                    40 hrs 58 mins      ███████████�
 
 <!--END_SECTION:waka-->
 
-<div align="center" style="witdh:100%"> 
+<div align="center" style="width:100%"> 
   <table>
     <tr>
-      <td valign="center" width="100px"><b>Languages<b></td>
-      <td valign="center" width="100px"><b>Frameworks and Tools<b></td>
-      <td valign="center" width="100px"><b>Interested<b></td>
+      <td valign="center" width="100px"><b>Languages</b></td>
+      <td valign="center" width="100px"><b>Frameworks and Tools</b></td>
+      <td valign="center" width="100px"><b>Interested</b></td>
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
@@ -67,8 +67,8 @@ Linux                    40 hrs 58 mins      ███████████�
   
  <table>
     <tr>
-      <td valign="center" width="100px"><b>Blockchain<b></td>
-      <td valign="center" width="100px"><b>Design<b></td>
+      <td valign="center" width="100px"><b>Blockchain</b></td>
+      <td valign="center" width="100px"><b>Design</b></td>
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
