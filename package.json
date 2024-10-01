@@ -1,0 +1,22 @@
+{
+  "name": "wrxinyue",
+  "version": "0.0.0",
+  "description": "Hi, I am WRXinYue",
+  "bugs": "https://github.com/WRXinYue/WRXinYue",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WRXinYue/WRXinYue"
+  },
+  "license": "MIT",
+  "author": "WRXinYue <wrxinyue@proton.me>",
+  "main": "index.js",
+  "bin": {
+    "wrxinyue": "./index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "open": "^8.2.1"
+  }
+}
