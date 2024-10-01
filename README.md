@@ -1,8 +1,4 @@
 <div align="center">
-<table>
-<tbody>
-<tr>
-<td align="center">
   <img width="2000" height="0" alt="" aria-hidden="true"><br>
   <span><b><em> WRXinYue </em> · <i> An open source enthusiast </i></b></span><br>
   <samp>
@@ -13,8 +9,4 @@
   </samp><br>
   <sub>If you enjoy my works, consider sponsoring me on <a href="https://afdian.com/a/wrxinyue">爱发电</a> to keep them sustainable.</sub><br>
   <img src="https://count.getloli.com/get/@:wrxinyue" width="2000" height="0" alt="" aria-hidden="true">
-</td>
-</tr>
-</tbody>
-</table>
 </div>
