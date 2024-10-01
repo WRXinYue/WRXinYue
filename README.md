@@ -1,5 +1,4 @@
 <div align="center">
-  <img width="2000" height="0" alt="" aria-hidden="true"><br>
   <span><b><em> WRXinYue </em> · <i> An open source enthusiast </i></b></span><br>
   <samp>
     <a href="https://www.wrxinyue.org/about">me</a> .
