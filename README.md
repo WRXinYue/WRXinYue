@@ -6,6 +6,6 @@
     <a href="https://www.wrxinyue.org/projects">projects</a> .
     <a href="https://www.wrxinyue.org/talks">talks</a>
   </samp><br>
-  <sub>If you enjoy my works, consider sponsoring me on <a href="https://afdian.com/a/wrxinyue">爱发电</a> to keep them sustainable.</sub><br>
+  <sub></sub><br>
   <img src="https://count.getloli.com/get/@:wrxinyue" width="2000" height="0" alt="" aria-hidden="true">
 </div>
